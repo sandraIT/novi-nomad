@@ -1,0 +1,29 @@
+@charset 'utf-8';
+/*
+  Theme Name: UniTravel Child
+  Theme URI: http://unitravel.ancorathemes.com/
+  Description: UniTravel - Multipurpose and Multiskin Responsive Wordpress theme
+  Author: AncoraThemes
+  Author URI: http://ancorathemes.com/
+  Template: unitravel
+  Version: 1.0
+  Tags: light, responsive-layout, flexible-header, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+  Text Domain:  unitravel
+*/
+
+@import url("../unitravel/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.sc_layouts_row_type_header_1.sc_layouts_row .sc_layouts_iconed_text {
+    padding: 0.9rem 3.5rem 0rem;
+}
+
+.sc_layouts_row_type_header_1.sc_layouts_row .sc_layouts_item_icon {
+    font-size: 3.3rem;
+}
+.sc_layouts_row_type_header_1.sc_layouts_row .sc_button_wrap .sc_button {
+    padding: 1.2rem 2.8rem 1.2rem;
+    margin-top: 13px;
+}

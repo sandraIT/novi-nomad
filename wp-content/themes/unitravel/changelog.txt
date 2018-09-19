@@ -1,0 +1,21 @@
+Version 1.0
+    Release
+
+Version 1.1
+    Compatibility with PHP7.1
+    Updated Revolution Slider to its latest version
+    Updated Visual Composer to its latest version
+    Updated Essential Grid to its latest version
+    Updated Booked to its latest version
+    Fixed Essential Grid bugs
+    Fixed shortcode Visual Composer in PHP7.1
+    Fixed shortcodes style
+	Fixed Import demo data
+	Fixed TRX ADDONS bugs
+    Added new CSS styles
+
+Version 1.2
+    Add WordPress 4.9.4 compatibility.
+    All plugin updated.
+    Documentations updated.
+    Demo data updated.
