@@ -10,3 +10,250 @@ Stack trace:
 #7 C:\wamp64\www\novi-nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
 #8 C:\wamp64\www\novi-nomad\wp-includes\general-template.php(41): locate_template(Array, tru
 
+2018-09-20T10:40:11+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:40:11+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:40:12+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:40:46+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:41:04+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:41:06+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:43:13+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:43:14+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:43:15+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:47:44+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T10:55:21+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T11:59:29+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T12:01:14+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T12:05:28+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T12:12:30+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T12:13:28+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T12:13:58+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T12:58:42+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
+2018-09-20T13:04:10+00:00 CRITICAL Uncaught Error: Call to undefined function trx_addons_get_the_ID() in C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php:132
+Stack trace:
+#0 C:\wamp64\www\nomad\wp-content\plugins\trx_addons\includes\plugin.wp.php(262): trx_addons_inc_post_views(0, 1)
+#1 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(286): trx_addons_inc_views_php('')
+#2 C:\wamp64\www\nomad\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\wamp64\www\nomad\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\wamp64\www\nomad\wp-includes\general-template.php(2614): do_action('wp_head')
+#5 C:\wamp64\www\nomad\wp-content\themes\unitravel\header.php(15): wp_head()
+#6 C:\wamp64\www\nomad\wp-includes\template.php(688): require_once('C:\\wamp64\\www\\n...')
+#7 C:\wamp64\www\nomad\wp-includes\template.php(647): load_template('C:\\wamp64\\www\\n...', true)
+#8 C:\wamp64\www\nomad\wp-includes\general-template.php(41): locate_template(Array, true)
+#9 C:\wamp64\www\nomad\wp-content\themes\unitra
+
